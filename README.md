@@ -4,6 +4,9 @@ Berikut Hasil eksekusi untuk Mahasiswa Class dengan Setter dan Getter
 
 
 b![Mahasiswa_Fredika](https://user-images.githubusercontent.com/116275592/200013017-8eb118de-292d-4017-9abe-cd34529120db.jpg)
+
+
+
 Hasil Eksekusi Untuk Tunjangan Manager dan Programmer
 
 
